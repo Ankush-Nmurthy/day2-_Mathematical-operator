@@ -1,5 +1,5 @@
-let a = 2;
-let b = 10;
+let a = 20;
+let b = 100;
 
 console.log("sum is = ", a + b);
 console.log("sub is = ", a - b);
